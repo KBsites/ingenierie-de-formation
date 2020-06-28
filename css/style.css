@@ -1,0 +1,22 @@
+/********** Base styles **********/
+	html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+	body {
+	background-color: #FAEBD7;
+
+}
+h1 {
+	font-family: Brushstroke, fantasy;
+	color: #000000;
+	text-align: center;
+}
+p {
+	padding: 10px;
+	font-family: Georgia sans-serif;
+	font-size: 16px;
+	position: relative;
+}
